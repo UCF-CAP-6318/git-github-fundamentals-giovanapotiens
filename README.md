@@ -1,3 +1,5 @@
+# 😃 Course Completed - CAP6318 Student: Giovana Noguchi Potiens
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
